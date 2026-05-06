@@ -9,10 +9,11 @@
 
 ## Tech arsenal
 
-![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-555555?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-555555?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Godot .NET](https://img.shields.io/badge/Godot_.NET-555555?style=for-the-badge&logo=godotengine&logoColor=white)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Godot .NET](https://img.shields.io/badge/Godot_.NET-000000?style=for-the-badge&logo=godotengine&logoColor=white)
+![SQL Databases](https://img.shields.io/badge/SQL%20%7C%20PostgreSQL%20%7C%20MySQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 

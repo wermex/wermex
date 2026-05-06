@@ -1,9 +1,6 @@
 # WERMEX
 
-**`Student of IT, indie dev, C#/Godot .NET zealot.`**
-
-> *I build with C#. I sharpen with C++. I respect C.*  
-> *Godot .NET is my battlefield. No compromises.*
+**`Student of IT, engineer, indie dev. C / C++ / C# / Godot .NET zealot.`**
 
 ---
 

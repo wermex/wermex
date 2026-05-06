@@ -42,3 +42,11 @@ Russia, UTC+3
 ## Motto
 
 > *"Code hard, crash early, refactor often. Pray to the compiler, sacrifice to the engine."*
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wermex/wermex/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wermex/wermex/output/snake.svg">
+  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/wermex/wermex/output/snake.svg">
+</picture>

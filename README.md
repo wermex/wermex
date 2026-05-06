@@ -1,16 +1,44 @@
-## Hi there 👋
+# WERMEX
 
-<!--
-**wermex/wermex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Student of IT, indie dev, C#/Godot .NET zealot.`**
 
-Here are some ideas to get you started:
+> *I build with C#. I sharpen with C++. I respect C.*  
+> *Godot .NET is my battlefield. No compromises.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech arsenal
+
+![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-555555?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-555555?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Godot .NET](https://img.shields.io/badge/Godot_.NET-555555?style=for-the-badge&logo=godotengine&logoColor=white)
+
+---
+
+## Status
+
+- **Student** of Information Technology & Programming
+- **Indie** game designer / engineer (Godot .NET specialist)  
+- Actively **seeking work** (junior/middle gamedev)  
+- Coding **for the soul** – zealots never rest  
+
+---
+
+## Base
+
+Russia, UTC+3
+
+---
+
+## Contact (serious only)
+
+- GitHub issues – preferred  
+- Telegram: `@wermex13`  
+- Email: `wermex13@gmail.com`
+
+---
+
+## Motto
+
+> *"Code hard, crash early, refactor often. Pray to the compiler, sacrifice to the engine."*

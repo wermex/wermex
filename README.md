@@ -26,12 +26,6 @@
 
 ---
 
-## Base
-
-Russia, UTC+3
-
----
-
 ## Contact (serious only)
 
 - GitHub issues – preferred  

@@ -18,7 +18,7 @@
 
 - **Student** of Information Technology & Programming
 - **Indie** game designer / engineer (Godot .NET specialist)  
-- Actively **seeking work** (junior/middle gamedev)  
+- Looking for **C++** internship / junior position  
 - Coding **for the soul** – zealots never rest  
 
 ---
